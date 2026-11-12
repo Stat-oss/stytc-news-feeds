@@ -13,7 +13,7 @@
 	<atom:link href="https://hiphopwired.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hiphopwired.com/</link>
 	<description>The Latest Hip-Hop News, Music and Media &#124; Premier Destination For The Latest On Hip-Hop Culture &#38; Urban Lifestyle.</description>
-	<lastBuildDate>Wed, 11 Nov 2026 23:21:40 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Nov 2026 12:04:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -160,8 +160,9 @@
 		
 		<dc:creator><![CDATA[Weso]]></dc:creator>
 		<pubDate>Wed, 11 Nov 2026 22:04:41 +0000</pubDate>
-				<category><![CDATA[Hip Hop News]]></category>
-		<category><![CDATA[News]]></category>
+				<category><![CDATA[Entertainment]]></category>
+		<category><![CDATA[Hip Hop News]]></category>
+		<category><![CDATA[Local to HHW]]></category>
 		<category><![CDATA[Dating]]></category>
 		<category><![CDATA[drake]]></category>
 		<category><![CDATA[Sexyy Red]]></category>
